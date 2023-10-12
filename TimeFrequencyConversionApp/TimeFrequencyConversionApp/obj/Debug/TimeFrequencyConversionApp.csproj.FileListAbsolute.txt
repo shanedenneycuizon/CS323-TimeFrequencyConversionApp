@@ -1,0 +1,10 @@
+C:\Users\Shane\Documents\SCHOOL FILES\4th YEAR\CS323 DATA COMMS\CS323-TimeFrequencyConversionApp\TimeFrequencyConversionApp\TimeFrequencyConversionApp\obj\Debug\TimeFrequencyConversionApp.csproj.AssemblyReference.cache
+C:\Users\Shane\Documents\SCHOOL FILES\4th YEAR\CS323 DATA COMMS\CS323-TimeFrequencyConversionApp\TimeFrequencyConversionApp\TimeFrequencyConversionApp\obj\Debug\TimeFrequencyConversionApp.Form1.resources
+C:\Users\Shane\Documents\SCHOOL FILES\4th YEAR\CS323 DATA COMMS\CS323-TimeFrequencyConversionApp\TimeFrequencyConversionApp\TimeFrequencyConversionApp\obj\Debug\TimeFrequencyConversionApp.Properties.Resources.resources
+C:\Users\Shane\Documents\SCHOOL FILES\4th YEAR\CS323 DATA COMMS\CS323-TimeFrequencyConversionApp\TimeFrequencyConversionApp\TimeFrequencyConversionApp\obj\Debug\TimeFrequencyConversionApp.csproj.GenerateResource.cache
+C:\Users\Shane\Documents\SCHOOL FILES\4th YEAR\CS323 DATA COMMS\CS323-TimeFrequencyConversionApp\TimeFrequencyConversionApp\TimeFrequencyConversionApp\obj\Debug\TimeFrequencyConversionApp.csproj.CoreCompileInputs.cache
+C:\Users\Shane\Documents\SCHOOL FILES\4th YEAR\CS323 DATA COMMS\CS323-TimeFrequencyConversionApp\TimeFrequencyConversionApp\TimeFrequencyConversionApp\bin\Debug\TimeFrequencyConversionApp.exe.config
+C:\Users\Shane\Documents\SCHOOL FILES\4th YEAR\CS323 DATA COMMS\CS323-TimeFrequencyConversionApp\TimeFrequencyConversionApp\TimeFrequencyConversionApp\bin\Debug\TimeFrequencyConversionApp.exe
+C:\Users\Shane\Documents\SCHOOL FILES\4th YEAR\CS323 DATA COMMS\CS323-TimeFrequencyConversionApp\TimeFrequencyConversionApp\TimeFrequencyConversionApp\bin\Debug\TimeFrequencyConversionApp.pdb
+C:\Users\Shane\Documents\SCHOOL FILES\4th YEAR\CS323 DATA COMMS\CS323-TimeFrequencyConversionApp\TimeFrequencyConversionApp\TimeFrequencyConversionApp\obj\Debug\TimeFrequencyConversionApp.exe
+C:\Users\Shane\Documents\SCHOOL FILES\4th YEAR\CS323 DATA COMMS\CS323-TimeFrequencyConversionApp\TimeFrequencyConversionApp\TimeFrequencyConversionApp\obj\Debug\TimeFrequencyConversionApp.pdb
