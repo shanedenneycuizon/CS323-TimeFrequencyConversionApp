@@ -85,7 +85,6 @@
             this.convert.Name = "convert";
             this.convert.Size = new System.Drawing.Size(125, 20);
             this.convert.TabIndex = 7;
-            this.convert.Text = "Input Value:";
             // 
             // unit1
             // 
@@ -94,7 +93,6 @@
             this.unit1.Name = "unit1";
             this.unit1.Size = new System.Drawing.Size(125, 20);
             this.unit1.TabIndex = 8;
-            this.unit1.Text = "unit1";
             // 
             // unit2
             // 
@@ -103,7 +101,6 @@
             this.unit2.Name = "unit2";
             this.unit2.Size = new System.Drawing.Size(125, 20);
             this.unit2.TabIndex = 9;
-            this.unit2.Text = "unit2";
             // 
             // button1
             // 
